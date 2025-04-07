@@ -1,1 +1,1 @@
-select * from test.public.access_history;
+select * from test.public.access_hist;
